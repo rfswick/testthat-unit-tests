@@ -4,7 +4,7 @@ This repository houses two small functions and example unit tests. It is intende
 
 ## An important note
 
-The [`{testthat}` framework](https://testthat.r-lib.org/index.html) is intended to be used within repositories structured as R packages. There have been [active conversations](https://github.com/r-lib/testthat/issues/659) around using `{testhat}` outside the context of an R package, though this practice is generally discouraged. 
+The [`{testthat}` framework](https://testthat.r-lib.org/index.html) is intended to be used within repositories structured as R packages. There have been [active conversations](https://github.com/r-lib/testthat/issues/659) around how best to use `{testhat}` outside the context of an R package, though this practice is generally discouraged. 
 
 *Because this example serves to briefly introduce the concept a unit test **separate** from Shiny (before we jump into the `{shinytest2}` framework), I have chosen to **not** to convert this repository into a package. Largely because:*
 

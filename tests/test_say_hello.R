@@ -2,7 +2,7 @@
 library(testthat)
 
 #...........................source fxn...........................
-source(here::here("R", "say-hello.R"))
+source(here::here("R", "say_hello.R"))
 
 #..............................tests.............................
 test_that("say_hello works with a string", {

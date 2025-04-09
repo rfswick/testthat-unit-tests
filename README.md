@@ -2,6 +2,8 @@
 
 This repository houses two small functions and example unit tests. It is intended to pair with the [EDS 296: Intro to Shiny](https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/) unit testing modules ([full](https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-materials/slides/part7.2-unit-testing-slides.html#/title-slide) & [abridged](https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/course-materials/slides/part7.2-unit-testing-slides-ABRIDGED.html#/title-slide) versions).
 
+Also see [`shinytest2-unit-tests`](https://github.com/samanthacsik/shinytest2-unit-tests).
+
 ## An important note
 
 The [`{testthat}` framework](https://testthat.r-lib.org/index.html) is intended to be used within repositories structured as R packages. There have been [active conversations](https://github.com/r-lib/testthat/issues/659) around how best to use `{testhat}` outside the context of an R package, though this practice is generally discouraged. 
